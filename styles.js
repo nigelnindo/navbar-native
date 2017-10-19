@@ -150,7 +150,7 @@ export default navbarStyles = {
         width: 20,
     },
     buttonBadge: {
-        fontSize: 13,
+        fontSize: 10,
         textAlign: 'center',
         backgroundColor: 'transparent'
     },
